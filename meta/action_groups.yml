@@ -1,0 +1,19 @@
+azure:
+- azure_rm_dnsrecordset_facts
+- azure_rm_dnszone_facts
+- azure_rm_networkinterface_facts
+- azure_rm_publicipaddress_facts
+- azure_rm_securitygroup_facts
+- azure_rm_storageaccount_facts
+- azure_rm_virtualmachine_facts
+- azure_rm_virtualnetwork_facts
+- azure_rm_deployment
+- azure_rm_dnsrecordset
+- azure_rm_dnszone
+- azure_rm_networkinterface
+- azure_rm_publicipaddress
+- azure_rm_securitygroup
+- azure_rm_storageaccount
+- azure_rm_subnet
+- azure_rm_virtualmachine
+- azure_rm_virtualnetwork

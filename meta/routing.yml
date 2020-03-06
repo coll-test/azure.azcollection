@@ -1,0 +1,34 @@
+plugin_routing:
+  modules:
+    azure_rm_dnsrecordset_facts:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    azure_rm_dnszone_facts:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    azure_rm_networkinterface_facts:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    azure_rm_publicipaddress_facts:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    azure_rm_securitygroup_facts:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    azure_rm_storageaccount_facts:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    azure_rm_virtualmachine_facts:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    azure_rm_virtualnetwork_facts:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details

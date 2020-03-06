@@ -1,0 +1,4 @@
+integration_tests_dependencies:
+- gavinfish.azuretest
+- community.general
+unit_tests_dependencies: []
